@@ -12,9 +12,4 @@
  *
  *= require_tree .
  *= require_self
- *= bootstrap
- *= require font-awesome
- *= require simple-line-icons
- *= require animate
- *= require style
  */
